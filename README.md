@@ -1,2 +1,2 @@
-# Fixlab-Backend
-Backend para la app FixLab
+# nodejs-mysql-authentication
+A simple login and register using nodejs, mysql, and jwt token
